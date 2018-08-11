@@ -10,6 +10,7 @@ namespace Flames
     {
         private string name1;
         private string name2;
+
         private List<char> flames=new List<char>();
         
         private int count;
